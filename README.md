@@ -26,6 +26,13 @@
 일정 레벨에 도달할 시 포켓몬이 진화합니다.
 ![진화](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/59fa740d-d7dd-400d-b186-de0e87320352)
 
+우측 상당 미니게임 버튼을 통해 두가지의 미니게임을 즐길 수 있으며 경험치도 획득합니다.
+
+게임1 : 블록깨기게임
+![게임1](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/f24d1230-c169-4f7a-89e8-674cf352f4ad)
+
+게임2 : 슈팅게임
+![게임2](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/1a83e135-32b4-4238-af54-ae025d67cdeb)
 
 
 
