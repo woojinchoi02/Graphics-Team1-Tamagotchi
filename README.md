@@ -21,9 +21,11 @@
 프로그램 시작 시 총 3마리의 포켓몬중 한마리가 랜덤으로 선택됩니다.
 
 
-![기본로직](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/09acfaae-9378-4381-9caf-0483344523f4)
+![기본로직](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/927c255a-4751-4309-a3f3-d326c9149b50)
+
 시간이 지나거나 놀아주기, 청소등을 하면 청결도, 배고픔, 행복도, 경험치가 오르고 내려갑니다.
 ![진화](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/59fa740d-d7dd-400d-b186-de0e87320352)
+
 일정 레벨에 도달할 시 포켓몬이 진화합니다.
 
 
