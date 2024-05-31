@@ -17,6 +17,8 @@
 ![111](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/67457b9a-aa32-43e4-8574-096a12cdf485)
 ![캡처123](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/cf748d00-0bcb-48a2-8651-1de8aad67064)
 
+프로그램 시작 시 총 3마리의 포켓몬중 한마리가 랜덤으로 선택됩니다.
+
 
 
 
