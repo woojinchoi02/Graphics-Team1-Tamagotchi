@@ -1,32 +1,34 @@
 # Graphics-Team1-Tamagotchi
 
 ### 사용법
-1. SFML라이브러리를 다운받습니다.
-2. 프로젝트 속성 C/C++(일반) 추가 포함 디렉터리에서 SFML폴더의 include 폴더를 선택합니다.
-3. 프로젝트 속성 링커(일반) 추가 라이브러리 디렉터리에서 SFML폴더의 lib 폴더를 선택합니다.
-4. 프로젝트 속성 링커(입력) 추가종속성에서 아래의 코드를 추가 해줍니다.
+1. SFML라이브러리를 다운로드합니다.
+2. SFML폴더의 bin 안에 있는 파일을 모두 복사한 뒤, C 드라이브 -> Windows -> System32 폴더에 넣어줍니다.
+3. visual studio에서 Tamagotchi를 실행시켜 줍니다.
+4. 프로젝트 속성 C/C++(일반) 추가 포함 디렉터리에서 SFML폴더의 include 폴더를 선택합니다.
+5. 프로젝트 속성 링커(일반) 추가 라이브러리 디렉터리에서 SFML폴더의 lib 폴더를 선택합니다.
+6. 프로젝트 속성 링커(입력) 추가 종속성에서 아래의 코드를 추가해 줍니다.
    
                         sfml-main-d.lib
                         sfml-graphics-d.lib
                         sfml-window-d.lib
                         sfml-system-d.lib
                         sfml-audio-d.lib
-5. SDL2.dll파일을 프로젝트 X64 Debug파일에 넣어줍니다.
+7. SDL2.dll파일을 프로젝트 X64 Debug파일에 넣어줍니다.
 ---------
 #### 프로그램 실행 
-프로그램 시작 시 총 3마리의 포켓몬중 한마리가 랜덤으로 선택됩니다.
+프로그램 시작 시 총 3마리의 포켓몬 중 한 마리가 랜덤으로 선택됩니다.
 
 ![캡처](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/0bf29758-0517-4627-8581-f850b55a4a38)
 ![111](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/67457b9a-aa32-43e4-8574-096a12cdf485)
 ![캡처123](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/cf748d00-0bcb-48a2-8651-1de8aad67064)
 
-시간이 지나거나 놀아주기, 청소등을 하면 청결도, 배고픔, 행복도, 경험치가 오르고 내려갑니다.
+시간이 지나거나 놀아주기, 청소 등을 하면 청결도, 배고픔, 행복도, 경험치가 오르고 내려갑니다.
 ![기본로직](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/927c255a-4751-4309-a3f3-d326c9149b50)
 
-일정 레벨에 도달할 시 포켓몬이 진화합니다.
+일정 레벨에 도달 시 포켓몬이 진화합니다.
 ![진화](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/59fa740d-d7dd-400d-b186-de0e87320352)
 
-우측 상당 미니게임 버튼을 통해 두가지의 미니게임을 즐길 수 있으며 경험치도 획득합니다.
+우측 상단 미니게임 버튼을 통해 두 가지의 미니게임을 즐길 수 있으며 경험치도 획득합니다.
 
 게임1 : 블록깨기게임
 ![게임1](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/f24d1230-c169-4f7a-89e8-674cf352f4ad)
@@ -34,7 +36,10 @@
 게임2 : 슈팅게임
 ![게임2](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/1a83e135-32b4-4238-af54-ae025d67cdeb)
 
-실제 플레이 시 각 버튼을 누를 때, 레벨 업, 진화 등을 할 때 효과음이 나도록 구현했습니다.
+플레이 시 각 버튼을 누를 때 효과음이 나도록 구현했습니다.
+
+https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/ace4a2cf-d10b-4fa9-90a4-9007d519829a
+
 
 
 
