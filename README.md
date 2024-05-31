@@ -12,7 +12,8 @@
                         sfml-system-d.lib
                         sfml-audio-d.lib
 5. SDL2.dll파일을 프로젝트 X64 Debug파일에 넣어줍니다.
-   
+---------
+#### 프로그램 실행 
 ![캡처](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/0bf29758-0517-4627-8581-f850b55a4a38)
 ![111](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/67457b9a-aa32-43e4-8574-096a12cdf485)
 ![캡처123](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/cf748d00-0bcb-48a2-8651-1de8aad67064)
@@ -21,8 +22,9 @@
 
 
 ![기본로직](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/09acfaae-9378-4381-9caf-0483344523f4)
-시간이 지나거나 놀아주기, 청소등을 하면 청결도, 배고픔, 행복도가 오르고 내려가며 일정 레벨 도달 시 진화 합니다.
+시간이 지나거나 놀아주기, 청소등을 하면 청결도, 배고픔, 행복도, 경험치가 오르고 내려갑니다.
 ![진화](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/59fa740d-d7dd-400d-b186-de0e87320352)
+일정 레벨에 도달할 시 포켓몬이 진화합니다.
 
 
 
