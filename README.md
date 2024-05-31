@@ -11,5 +11,7 @@
                         sfml-window-d.lib
                         sfml-system-d.lib
                         sfml-audio-d.lib
+5. SDL2.dll파일을 프로젝트 X64 Debug파일에 넣어줍니다.
+
 
    
