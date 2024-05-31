@@ -11,3 +11,5 @@
                         sfml-window-d.lib
                         sfml-system-d.lib
                         sfml-audio-d.lib
+
+   
