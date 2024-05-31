@@ -34,7 +34,7 @@
 게임2 : 슈팅게임
 ![게임2](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/1a83e135-32b4-4238-af54-ae025d67cdeb)
 
-
+실제 플레이 시 각 버튼을 누를 때, 레벨 업, 진화 등을 할 때 효과음이 나도록 구현했습니다.
 
 
 
