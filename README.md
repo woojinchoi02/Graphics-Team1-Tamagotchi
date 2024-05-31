@@ -12,6 +12,9 @@
                         sfml-system-d.lib
                         sfml-audio-d.lib
 5. SDL2.dll파일을 프로젝트 X64 Debug파일에 넣어줍니다.
+![image](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/dcdba9c0-312a-4249-b721-b589e87e2060)
+![image](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/cbfc824d-9ae6-4027-8743-16d6db7e8163)
+![image](https://github.com/woojinchoi02/Graphics-Team1-Tamagotchi/assets/162526228/c8ced940-db01-4160-b459-33abfc320773)
 
 
-   
+
